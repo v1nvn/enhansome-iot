@@ -2,11 +2,11 @@
 
 <img src="iot-logo.png" align="right" width="100">
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 435,724 | 🐛 67 | 📅 2026-01-28 [![Build Status](https://travis-ci.org/HQarroum/awesome-iot.svg?branch=master)](https://travis-ci.org/HQarroum/awesome-iot)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 435,879 | 🐛 68 | 📅 2026-01-28 [![Build Status](https://travis-ci.org/HQarroum/awesome-iot.svg?branch=master)](https://travis-ci.org/HQarroum/awesome-iot)
 
 > A curated list of awesome Internet of Things projects and resources.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 435,724 | 🐛 67 | 📅 2026-01-28 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 435,879 | 🐛 68 | 📅 2026-01-28 list thing.
 
 ## Table of Contents
 
@@ -87,8 +87,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 435,724 |
 
 #### Frameworks
 
-* [Home Assistant](https://github.com/home-assistant/home-assistant) ⭐ 84,662 | 🐛 3,269 | 🌐 Python | 📅 2026-02-07 - Home Assistant is a home automation platform running on Python 3. The goal of Home Assistant is to be able to track and control all devices at home and offer a platform for automating control.
-* [Countly IoT Analytics](http://github.com/countly/countly-server) ⭐ 5,822 | 🐛 21 | 🌐 JavaScript | 📅 2026-02-06 - Countly is a general purpose analytics platform for mobile and IoT devices, available as open source.
+* [Home Assistant](https://github.com/home-assistant/home-assistant) ⭐ 84,671 | 🐛 3,282 | 🌐 Python | 📅 2026-02-07 - Home Assistant is a home automation platform running on Python 3. The goal of Home Assistant is to be able to track and control all devices at home and offer a platform for automating control.
+* [Countly IoT Analytics](http://github.com/countly/countly-server) ⭐ 5,822 | 🐛 22 | 🌐 JavaScript | 📅 2026-02-07 - Countly is a general purpose analytics platform for mobile and IoT devices, available as open source.
 * [Thingsboard IoT Gateway](https://github.com/thingsboard/thingsboard-gateway) ⭐ 2,080 | 🐛 68 | 🌐 Python | 📅 2026-02-05 - Open-source IoT Gateway - integrates devices connected to legacy and third-party systems with Thingsboard IoT Platform using OPC-UA and MQTT protocols.
 * [HStreamDB](https://github.com/hstreamdb/hstream) ⭐ 726 | 🐛 11 | 🌐 Haskell | 📅 2024-12-26 - The streaming database built for IoT data storage and real-time processing.
 * [AREG SDK](https://github.com/aregtech/areg-sdk) ⭐ 324 | 🐛 39 | 🌐 C++ | 📅 2026-02-06 - AREG SDK is an interface-centric real-time asynchronous communication engine to enable distributed- and [mist-](https://csrc.nist.gov/publications/detail/sp/500-325/final)computing, where connected Things interact and provide services, as if they act like thin distributed servers.
@@ -115,13 +115,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 435,724 |
 
 #### Middlewares
 
-* [Huginn](https://github.com/cantino/huginn) ⭐ 48,658 | 🐛 694 | 🌐 Ruby | 📅 2026-02-07 - Huginn is a system for building agents that perform automated tasks for you online.
+* [Huginn](https://github.com/cantino/huginn) ⭐ 48,664 | 🐛 694 | 🌐 Ruby | 📅 2026-02-07 - Huginn is a system for building agents that perform automated tasks for you online.
 * [VerneMQ](https://github.com/erlio/vernemq) ⭐ 3,524 | 🐛 162 | 🌐 Erlang | 📅 2026-01-08 - VerneMQ is a high-performance, distributed MQTT broker that connects IoT, M2M, Mobile, and web applications. It scales horizontally and vertically on commodity hardware to support a high number of concurrent publishers and consumers while maintaining low latency and fault tolerance.
 * [NanoMQ](https://github.com/nanomq/nanomq) ⭐ 2,399 | 🐛 64 | 🌐 C | 📅 2026-02-06 - A lightweight and Blazing-fast MQTT Broker for IoT Edge platform.
 * [Kuiper](https://github.com/emqx/kuiper) ⭐ 1,678 | 🐛 46 | 🌐 Go | 📅 2026-02-02 - An edge lightweight IoT data analytics/streaming software implemented by Golang, and it can be run on all kinds of resource-constrained edge devices.
-* [Kuzzle](https://github.com/kuzzleio/kuzzle) ⭐ 1,630 | 🐛 0 | 🌐 JavaScript | 📅 2026-01-29 - An open-source backend with advanced features like real-time pub/sub or geofencing and a multiprotocol interface that supports MQTT, LoRaWAN and more. ([Website](https://kuzzle.io/solutions/technologies/iot-backend/))
+* [Kuzzle](https://github.com/kuzzleio/kuzzle) ⭐ 1,629 | 🐛 0 | 🌐 JavaScript | 📅 2026-01-29 - An open-source backend with advanced features like real-time pub/sub or geofencing and a multiprotocol interface that supports MQTT, LoRaWAN and more. ([Website](https://kuzzle.io/solutions/technologies/iot-backend/))
 * [IoTSharp](https://github.com/IoTSharp/IoTSharp) ⭐ 1,249 | 🐛 20 | 🌐 C# | 📅 2026-01-28 - IoTSharp is an open-source IoT platform for data collection, processing, visualization, and device management.
-* [Zilla](https://github.com/aklivity/zilla) ⭐ 675 | 🐛 171 | 🌐 Java | 📅 2026-02-06 - A Multi-protocol event-native edge/service proxy that supports standard protocols such as HTTP, SSE, gRPC, MQTT and the native Kafka protocol.
+* [Zilla](https://github.com/aklivity/zilla) ⭐ 676 | 🐛 170 | 🌐 Java | 📅 2026-02-06 - A Multi-protocol event-native edge/service proxy that supports standard protocols such as HTTP, SSE, gRPC, MQTT and the native Kafka protocol.
 * [t6](https://github.com/mathcoll/t6) ⭐ 45 | 🐛 10 | 🌐 JavaScript | 📅 2025-04-02 - Data-first IoT platform to connect physical Objects with time-series DB and perform Data Analysis.
 * [Corlysis](https://corlysis.com/) - Corlysis is a platform that helps you with storing and visualizing your time-series data. It is based on the open-source projects Grafana and InfluxDB that also SpaceX uses.
 * [IFTTT](https://ifttt.com/) - IFTTT is a web-based service that allows users to create chains of simple conditional statements, called "recipes", which are triggered based on changes to other web services such as Gmail, Facebook, Instagram, and Pinterest. IFTTT is an abbreviation of "If This Then That" (pronounced like "gift" without the "g").
@@ -142,9 +142,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 435,724 |
 
 #### Libraries and Tools
 
-* [QuestDB](https://github.com/questdb/questdb) ⭐ 16,650 | 🐛 798 | 🌐 Java | 📅 2026-02-07 - an open source time series database used for real-time analytics and high-performance applications. Supports high-throughput ingestion over InfluxDB line protocol and SQL as a query language.
+* [QuestDB](https://github.com/questdb/questdb) ⭐ 16,652 | 🐛 797 | 🌐 Java | 📅 2026-02-08 - an open source time series database used for real-time analytics and high-performance applications. Supports high-throughput ingestion over InfluxDB line protocol and SQL as a query language.
 * [Chaos Genius](https://github.com/chaos-genius/chaos_genius) ⚠️ Archived - an open source ML powered analytics engine for outlier/anomaly detection and root cause analysis. Connect with sensor data, monitor and get alerted on abnormal behavior.
-* [United Manufacturing Hub](https://github.com/united-manufacturing-hub/united-manufacturing-hub) ⭐ 347 | 🐛 21 | 🌐 Go | 📅 2026-02-07 - The Open-Source Manufacturing App Platform (combines various open source solutions and packages them in a Helm chart, for example, Nodered, VerneMQ and timescaleDB)
+* [United Manufacturing Hub](https://github.com/united-manufacturing-hub/united-manufacturing-hub) ⭐ 347 | 🐛 23 | 🌐 Go | 📅 2026-02-08 - The Open-Source Manufacturing App Platform (combines various open source solutions and packages them in a Helm chart, for example, Nodered, VerneMQ and timescaleDB)
 * [SmartObject](https://github.com/PeterEB/smartobject) ⭐ 20 | 🐛 0 | 🌐 JavaScript | 📅 2019-12-23 - A Smart Object Class that helps you with creating IPSO Smart Objects in your JavaScript applications. See also: IPSO Alliance [Technical Archive](http://www.ipso-alliance.org/ipso-community/resources/technical-archive/).
 * [ThingsOn MQTT Bench](https://github.com/volkanalkilic/ThingsOn.MQTT.Bench) ⚠️ Archived - ThingsOn MQTT Bench is a simple Cross-platform .NET Core benchmark tool for MQTT brokers. It measures the maximum number of messages that can be sent to the broker in a specified amount of time.
 * [Cylon.js](http://cylonjs.com/) - Cylon.js is a JavaScript framework for robotics, physical computing, and the Internet of Things. It makes it incredibly easy to command robots and devices.

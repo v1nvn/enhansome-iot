@@ -143,7 +143,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-02-06T21:39:15Z",
+            "last_commit": "2026-02-07T17:07:19Z",
             "owner": "countly",
             "repo": "countly-server",
             "stars": 5822
@@ -206,10 +206,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-02-07T12:17:27Z",
+            "last_commit": "2026-02-07T21:13:57Z",
             "owner": "home-assistant",
             "repo": "home-assistant",
-            "stars": 84662
+            "stars": 84671
           }
         },
         {
@@ -315,7 +315,7 @@
             "last_commit": "2026-02-07T01:57:20Z",
             "owner": "cantino",
             "repo": "huginn",
-            "stars": 48658
+            "stars": 48664
           }
         },
         {
@@ -386,7 +386,7 @@
             "last_commit": "2026-01-29T13:24:27Z",
             "owner": "kuzzleio",
             "repo": "kuzzle",
-            "stars": 1630
+            "stars": 1629
           }
         },
         {
@@ -471,7 +471,7 @@
             "last_commit": "2026-02-06T05:36:55Z",
             "owner": "aklivity",
             "repo": "zilla",
-            "stars": 675
+            "stars": 676
           }
         }
       ],
@@ -550,7 +550,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-02-07T09:49:34Z",
+            "last_commit": "2026-02-08T01:31:28Z",
             "owner": "united-manufacturing-hub",
             "repo": "united-manufacturing-hub",
             "stars": 347
@@ -563,10 +563,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-02-07T12:09:22Z",
+            "last_commit": "2026-02-08T00:28:06Z",
             "owner": "questdb",
             "repo": "questdb",
-            "stars": 16650
+            "stars": 16652
           }
         },
         {
@@ -872,10 +872,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-07T13:25:05.391Z",
+    "last_updated": "2026-02-08T04:31:05.075Z",
     "original_repository": "HQarroum/awesome-iot",
     "source_repository": "v1nvn/enhansome-iot",
-    "source_repository_description": "",
+    "source_repository_description": null,
     "title": "Awesome IoT with stars"
   }
 }
