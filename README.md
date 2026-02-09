@@ -2,11 +2,11 @@
 
 <img src="iot-logo.png" align="right" width="100">
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 435,879 | 🐛 68 | 📅 2026-01-28 [![Build Status](https://travis-ci.org/HQarroum/awesome-iot.svg?branch=master)](https://travis-ci.org/HQarroum/awesome-iot)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 436,152 | 🐛 68 | 📅 2026-01-28 [![Build Status](https://travis-ci.org/HQarroum/awesome-iot.svg?branch=master)](https://travis-ci.org/HQarroum/awesome-iot)
 
 > A curated list of awesome Internet of Things projects and resources.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 435,879 | 🐛 68 | 📅 2026-01-28 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 436,152 | 🐛 68 | 📅 2026-01-28 list thing.
 
 ## Table of Contents
 
@@ -87,11 +87,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 435,879 |
 
 #### Frameworks
 
-* [Home Assistant](https://github.com/home-assistant/home-assistant) ⭐ 84,671 | 🐛 3,282 | 🌐 Python | 📅 2026-02-07 - Home Assistant is a home automation platform running on Python 3. The goal of Home Assistant is to be able to track and control all devices at home and offer a platform for automating control.
-* [Countly IoT Analytics](http://github.com/countly/countly-server) ⭐ 5,822 | 🐛 22 | 🌐 JavaScript | 📅 2026-02-07 - Countly is a general purpose analytics platform for mobile and IoT devices, available as open source.
-* [Thingsboard IoT Gateway](https://github.com/thingsboard/thingsboard-gateway) ⭐ 2,080 | 🐛 68 | 🌐 Python | 📅 2026-02-05 - Open-source IoT Gateway - integrates devices connected to legacy and third-party systems with Thingsboard IoT Platform using OPC-UA and MQTT protocols.
+* [Home Assistant](https://github.com/home-assistant/home-assistant) ⭐ 84,703 | 🐛 3,306 | 🌐 Python | 📅 2026-02-09 - Home Assistant is a home automation platform running on Python 3. The goal of Home Assistant is to be able to track and control all devices at home and offer a platform for automating control.
+* [Countly IoT Analytics](http://github.com/countly/countly-server) ⭐ 5,822 | 🐛 24 | 🌐 JavaScript | 📅 2026-02-09 - Countly is a general purpose analytics platform for mobile and IoT devices, available as open source.
+* [Thingsboard IoT Gateway](https://github.com/thingsboard/thingsboard-gateway) ⭐ 2,081 | 🐛 68 | 🌐 Python | 📅 2026-02-05 - Open-source IoT Gateway - integrates devices connected to legacy and third-party systems with Thingsboard IoT Platform using OPC-UA and MQTT protocols.
 * [HStreamDB](https://github.com/hstreamdb/hstream) ⭐ 726 | 🐛 11 | 🌐 Haskell | 📅 2024-12-26 - The streaming database built for IoT data storage and real-time processing.
-* [AREG SDK](https://github.com/aregtech/areg-sdk) ⭐ 324 | 🐛 39 | 🌐 C++ | 📅 2026-02-06 - AREG SDK is an interface-centric real-time asynchronous communication engine to enable distributed- and [mist-](https://csrc.nist.gov/publications/detail/sp/500-325/final)computing, where connected Things interact and provide services, as if they act like thin distributed servers.
+* [AREG SDK](https://github.com/aregtech/areg-sdk) ⭐ 324 | 🐛 39 | 🌐 C++ | 📅 2026-02-08 - AREG SDK is an interface-centric real-time asynchronous communication engine to enable distributed- and [mist-](https://csrc.nist.gov/publications/detail/sp/500-325/final)computing, where connected Things interact and provide services, as if they act like thin distributed servers.
 * [Astarte](https://github.com/astarte-platform/astarte) ⭐ 267 | 🐛 146 | 🌐 Elixir | 📅 2026-01-29 - Astarte is an Open Source IoT platform written in Elixir. It is a turnkey solution which packs in everything you need for connecting a device fleet to a set of remote applications. It performs data modeling, automated data reduction, real-time events, and provides you with any feature you might expect in a modern IoT platform. Right now, Linux and ESP32 devices are supported out of the box using the provided SDKs.
 * [MyController](https://github.com/mycontroller-org/mycontroller) ⭐ 154 | 🐛 63 | 🌐 Java | 📅 2022-08-04 - The Open Source Controller. MyController.org is an IoT automation controller for home, office or any place.
 * [IoTSharp.Gateways](https://github.com/IoTSharp/Gateways) ⭐ 26 | 🐛 6 | 🌐 C# | 📅 2022-12-03 - Open-source IoT Gateway - integrates devices connected to legacy and third-party systems with IoTSharp  IoT Platform using ModBus, OPC-UA, BACNetand MQTT protocols.
@@ -115,9 +115,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 435,879 |
 
 #### Middlewares
 
-* [Huginn](https://github.com/cantino/huginn) ⭐ 48,664 | 🐛 694 | 🌐 Ruby | 📅 2026-02-07 - Huginn is a system for building agents that perform automated tasks for you online.
-* [VerneMQ](https://github.com/erlio/vernemq) ⭐ 3,524 | 🐛 162 | 🌐 Erlang | 📅 2026-01-08 - VerneMQ is a high-performance, distributed MQTT broker that connects IoT, M2M, Mobile, and web applications. It scales horizontally and vertically on commodity hardware to support a high number of concurrent publishers and consumers while maintaining low latency and fault tolerance.
-* [NanoMQ](https://github.com/nanomq/nanomq) ⭐ 2,399 | 🐛 64 | 🌐 C | 📅 2026-02-06 - A lightweight and Blazing-fast MQTT Broker for IoT Edge platform.
+* [Huginn](https://github.com/cantino/huginn) ⭐ 48,666 | 🐛 694 | 🌐 Ruby | 📅 2026-02-07 - Huginn is a system for building agents that perform automated tasks for you online.
+* [VerneMQ](https://github.com/erlio/vernemq) ⭐ 3,525 | 🐛 162 | 🌐 Erlang | 📅 2026-01-08 - VerneMQ is a high-performance, distributed MQTT broker that connects IoT, M2M, Mobile, and web applications. It scales horizontally and vertically on commodity hardware to support a high number of concurrent publishers and consumers while maintaining low latency and fault tolerance.
+* [NanoMQ](https://github.com/nanomq/nanomq) ⭐ 2,399 | 🐛 66 | 🌐 C | 📅 2026-02-09 - A lightweight and Blazing-fast MQTT Broker for IoT Edge platform.
 * [Kuiper](https://github.com/emqx/kuiper) ⭐ 1,678 | 🐛 46 | 🌐 Go | 📅 2026-02-02 - An edge lightweight IoT data analytics/streaming software implemented by Golang, and it can be run on all kinds of resource-constrained edge devices.
 * [Kuzzle](https://github.com/kuzzleio/kuzzle) ⭐ 1,629 | 🐛 0 | 🌐 JavaScript | 📅 2026-01-29 - An open-source backend with advanced features like real-time pub/sub or geofencing and a multiprotocol interface that supports MQTT, LoRaWAN and more. ([Website](https://kuzzle.io/solutions/technologies/iot-backend/))
 * [IoTSharp](https://github.com/IoTSharp/IoTSharp) ⭐ 1,249 | 🐛 20 | 🌐 C# | 📅 2026-01-28 - IoTSharp is an open-source IoT platform for data collection, processing, visualization, and device management.
@@ -142,9 +142,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 435,879 |
 
 #### Libraries and Tools
 
-* [QuestDB](https://github.com/questdb/questdb) ⭐ 16,652 | 🐛 797 | 🌐 Java | 📅 2026-02-08 - an open source time series database used for real-time analytics and high-performance applications. Supports high-throughput ingestion over InfluxDB line protocol and SQL as a query language.
+* [QuestDB](https://github.com/questdb/questdb) ⭐ 16,658 | 🐛 795 | 🌐 Java | 📅 2026-02-09 - an open source time series database used for real-time analytics and high-performance applications. Supports high-throughput ingestion over InfluxDB line protocol and SQL as a query language.
 * [Chaos Genius](https://github.com/chaos-genius/chaos_genius) ⚠️ Archived - an open source ML powered analytics engine for outlier/anomaly detection and root cause analysis. Connect with sensor data, monitor and get alerted on abnormal behavior.
-* [United Manufacturing Hub](https://github.com/united-manufacturing-hub/united-manufacturing-hub) ⭐ 347 | 🐛 23 | 🌐 Go | 📅 2026-02-08 - The Open-Source Manufacturing App Platform (combines various open source solutions and packages them in a Helm chart, for example, Nodered, VerneMQ and timescaleDB)
+* [United Manufacturing Hub](https://github.com/united-manufacturing-hub/united-manufacturing-hub) ⭐ 347 | 🐛 24 | 🌐 Go | 📅 2026-02-08 - The Open-Source Manufacturing App Platform (combines various open source solutions and packages them in a Helm chart, for example, Nodered, VerneMQ and timescaleDB)
 * [SmartObject](https://github.com/PeterEB/smartobject) ⭐ 20 | 🐛 0 | 🌐 JavaScript | 📅 2019-12-23 - A Smart Object Class that helps you with creating IPSO Smart Objects in your JavaScript applications. See also: IPSO Alliance [Technical Archive](http://www.ipso-alliance.org/ipso-community/resources/technical-archive/).
 * [ThingsOn MQTT Bench](https://github.com/volkanalkilic/ThingsOn.MQTT.Bench) ⚠️ Archived - ThingsOn MQTT Bench is a simple Cross-platform .NET Core benchmark tool for MQTT brokers. It measures the maximum number of messages that can be sent to the broker in a specified amount of time.
 * [Cylon.js](http://cylonjs.com/) - Cylon.js is a JavaScript framework for robotics, physical computing, and the Internet of Things. It makes it incredibly easy to command robots and devices.
