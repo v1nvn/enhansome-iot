@@ -2,11 +2,11 @@
 
 <img src="iot-logo.png" align="right" width="100">
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 463,443 | 🐛 70 | 📅 2026-05-05 [![Build Status](https://travis-ci.org/HQarroum/awesome-iot.svg?branch=master)](https://travis-ci.org/HQarroum/awesome-iot)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 463,814 | 🐛 71 | 📅 2026-05-05 [![Build Status](https://travis-ci.org/HQarroum/awesome-iot.svg?branch=master)](https://travis-ci.org/HQarroum/awesome-iot)
 
 > A curated list of awesome Internet of Things projects and resources.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 463,443 | 🐛 70 | 📅 2026-05-05 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 463,814 | 🐛 71 | 📅 2026-05-05 list thing.
 
 ## Table of Contents
 
@@ -28,7 +28,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 463,443 |
 
 ### Hardware
 
-* [AutoPi](https://github.com/autopi-io/autopi-core) ⭐ 183 | 🐛 1 | 🌐 Python | 📅 2025-12-17 - Open-source core software for the AutoPi dongle, a Raspberry Pi-based OBD-II device for connected vehicle telematics, CAN bus data collection, and automotive IoT applications.
+* [AutoPi](https://github.com/autopi-io/autopi-core) ⭐ 184 | 🐛 1 | 🌐 Python | 📅 2025-12-17 - Open-source core software for the AutoPi dongle, a Raspberry Pi-based OBD-II device for connected vehicle telematics, CAN bus data collection, and automotive IoT applications.
 * [HomeMaster](https://www.home-master.eu/) - An open-source, ESP32-based modular smart home platform on DIN-rail. Includes MiniPLC and MicroPLC controllers along with relay, dimmer, RGBCCT, energy metering, water-leak and alarm modules — all running locally via ESPHome and Home Assistant. Firmware and schematics on [GitHub](https://github.com/isystemsautomation/homemaster-dev) ⭐ 25 | 🐛 2 | 🌐 HTML | 📅 2026-05-05.
 * [PiSpot Show](https://github.com/GeiserX/PiSpot-Show) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-04-14 - Raspberry Pi WiFi voucher display system with weather integration and PiJuice battery management.
 * [PiSpot Watch](https://github.com/GeiserX/PiSpot-Watch) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-04-14 - Software for running a PiSpot Watch (composed of a Raspberry Pi Zero and a PaPiRus Zero) for the company GPConnect.
@@ -92,12 +92,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 463,443 |
 
 #### Frameworks
 
-* [Home Assistant](https://github.com/home-assistant/home-assistant) ⭐ 86,941 | 🐛 3,844 | 🌐 Python | 📅 2026-05-07 - Home Assistant is a home automation platform running on Python 3. The goal of Home Assistant is to be able to track and control all devices at home and offer a platform for automating control.
-* [Countly IoT Analytics](http://github.com/countly/countly-server) ⭐ 5,856 | 🐛 26 | 🌐 JavaScript | 📅 2026-05-07 - Countly is a general purpose analytics platform for mobile and IoT devices, available as open source.
-* [Thingsboard IoT Gateway](https://github.com/thingsboard/thingsboard-gateway) ⭐ 2,120 | 🐛 80 | 🌐 Python | 📅 2026-05-05 - Open-source IoT Gateway - integrates devices connected to legacy and third-party systems with Thingsboard IoT Platform using OPC-UA and MQTT protocols.
+* [Home Assistant](https://github.com/home-assistant/home-assistant) ⭐ 86,951 | 🐛 3,845 | 🌐 Python | 📅 2026-05-08 - Home Assistant is a home automation platform running on Python 3. The goal of Home Assistant is to be able to track and control all devices at home and offer a platform for automating control.
+* [Countly IoT Analytics](http://github.com/countly/countly-server) ⭐ 5,856 | 🐛 21 | 🌐 JavaScript | 📅 2026-05-08 - Countly is a general purpose analytics platform for mobile and IoT devices, available as open source.
+* [Thingsboard IoT Gateway](https://github.com/thingsboard/thingsboard-gateway) ⭐ 2,121 | 🐛 81 | 🌐 Python | 📅 2026-05-05 - Open-source IoT Gateway - integrates devices connected to legacy and third-party systems with Thingsboard IoT Platform using OPC-UA and MQTT protocols.
 * [HStreamDB](https://github.com/hstreamdb/hstream) ⭐ 723 | 🐛 11 | 🌐 Haskell | 📅 2024-12-26 - The streaming database built for IoT data storage and real-time processing.
 * [AREG SDK](https://github.com/aregtech/areg-sdk) ⭐ 346 | 🐛 38 | 🌐 C++ | 📅 2026-05-02 - AREG SDK is an interface-centric real-time asynchronous communication engine to enable distributed- and [mist-](https://csrc.nist.gov/publications/detail/sp/500-325/final)computing, where connected Things interact and provide services, as if they act like thin distributed servers.
-* [Astarte](https://github.com/astarte-platform/astarte) ⭐ 269 | 🐛 155 | 🌐 Elixir | 📅 2026-05-06 - Astarte is an Open Source IoT platform written in Elixir. It is a turnkey solution which packs in everything you need for connecting a device fleet to a set of remote applications. It performs data modeling, automated data reduction, real-time events, and provides you with any feature you might expect in a modern IoT platform. Right now, Linux and ESP32 devices are supported out of the box using the provided SDKs.
+* [Astarte](https://github.com/astarte-platform/astarte) ⭐ 270 | 🐛 155 | 🌐 Elixir | 📅 2026-05-06 - Astarte is an Open Source IoT platform written in Elixir. It is a turnkey solution which packs in everything you need for connecting a device fleet to a set of remote applications. It performs data modeling, automated data reduction, real-time events, and provides you with any feature you might expect in a modern IoT platform. Right now, Linux and ESP32 devices are supported out of the box using the provided SDKs.
 * [MyController](https://github.com/mycontroller-org/mycontroller) ⭐ 155 | 🐛 63 | 🌐 Java | 📅 2022-08-04 - The Open Source Controller. MyController.org is an IoT automation controller for home, office or any place.
 * [IoTSharp.Gateways](https://github.com/IoTSharp/Gateways) ⭐ 27 | 🐛 5 | 🌐 C# | 📅 2026-04-19 - Open-source IoT Gateway - integrates devices connected to legacy and third-party systems with IoTSharp  IoT Platform using ModBus, OPC-UA, BACNetand MQTT protocols.
 * [homebridge-blink-security](https://github.com/BitWise-0x/homebridge-blink-security) ⭐ 5 | 🐛 1 | 🌐 TypeScript | 📅 2026-05-01 - A Homebridge plugin for integrating Blink cameras, doorbells, and sirens with Apple HomeKit, featuring live streaming, arm/disarm, and motion detection.
@@ -122,13 +122,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 463,443 |
 
 #### Middlewares
 
-* [Huginn](https://github.com/cantino/huginn) ⭐ 49,246 | 🐛 698 | 🌐 Ruby | 📅 2026-05-02 - Huginn is a system for building agents that perform automated tasks for you online.
+* [Huginn](https://github.com/cantino/huginn) ⭐ 49,247 | 🐛 696 | 🌐 Ruby | 📅 2026-05-02 - Huginn is a system for building agents that perform automated tasks for you online.
 * [VerneMQ](https://github.com/erlio/vernemq) ⭐ 3,578 | 🐛 177 | 🌐 Erlang | 📅 2026-05-06 - VerneMQ is a high-performance, distributed MQTT broker that connects IoT, M2M, Mobile, and web applications. It scales horizontally and vertically on commodity hardware to support a high number of concurrent publishers and consumers while maintaining low latency and fault tolerance.
-* [NanoMQ](https://github.com/nanomq/nanomq) ⭐ 2,487 | 🐛 67 | 🌐 C | 📅 2026-05-06 - A lightweight and Blazing-fast MQTT Broker for IoT Edge platform.
-* [Kuiper](https://github.com/emqx/kuiper) ⭐ 1,700 | 🐛 45 | 🌐 Go | 📅 2026-05-06 - An edge lightweight IoT data analytics/streaming software implemented by Golang, and it can be run on all kinds of resource-constrained edge devices.
+* [NanoMQ](https://github.com/nanomq/nanomq) ⭐ 2,487 | 🐛 66 | 🌐 C | 📅 2026-05-08 - A lightweight and Blazing-fast MQTT Broker for IoT Edge platform.
+* [Kuiper](https://github.com/emqx/kuiper) ⭐ 1,700 | 🐛 44 | 🌐 Go | 📅 2026-05-08 - An edge lightweight IoT data analytics/streaming software implemented by Golang, and it can be run on all kinds of resource-constrained edge devices.
 * [Kuzzle](https://github.com/kuzzleio/kuzzle) ⭐ 1,641 | 🐛 0 | 🌐 JavaScript | 📅 2026-04-29 - An open-source backend with advanced features like real-time pub/sub or geofencing and a multiprotocol interface that supports MQTT, LoRaWAN and more. ([Website](https://kuzzle.io/solutions/technologies/iot-backend/))
-* [IoTSharp](https://github.com/IoTSharp/IoTSharp) ⭐ 1,314 | 🐛 5 | 🌐 C# | 📅 2026-04-27 - IoTSharp is an open-source IoT platform for data collection, processing, visualization, and device management.
-* [Zilla](https://github.com/aklivity/zilla) ⭐ 687 | 🐛 208 | 🌐 Java | 📅 2026-05-07 - A Multi-protocol event-native edge/service proxy that supports standard protocols such as HTTP, SSE, gRPC, MQTT and the native Kafka protocol.
+* [IoTSharp](https://github.com/IoTSharp/IoTSharp) ⭐ 1,315 | 🐛 5 | 🌐 C# | 📅 2026-04-27 - IoTSharp is an open-source IoT platform for data collection, processing, visualization, and device management.
+* [Zilla](https://github.com/aklivity/zilla) ⭐ 687 | 🐛 209 | 🌐 Java | 📅 2026-05-08 - A Multi-protocol event-native edge/service proxy that supports standard protocols such as HTTP, SSE, gRPC, MQTT and the native Kafka protocol.
 * [t6](https://github.com/mathcoll/t6) ⭐ 45 | 🐛 10 | 🌐 JavaScript | 📅 2025-04-02 - Data-first IoT platform to connect physical Objects with time-series DB and perform Data Analysis.
 * [Corlysis](https://corlysis.com/) - Corlysis is a platform that helps you with storing and visualizing your time-series data. It is based on the open-source projects Grafana and InfluxDB that also SpaceX uses.
 * [IFTTT](https://ifttt.com/) - IFTTT is a web-based service that allows users to create chains of simple conditional statements, called "recipes", which are triggered based on changes to other web services such as Gmail, Facebook, Instagram, and Pinterest. IFTTT is an abbreviation of "If This Then That" (pronounced like "gift" without the "g").
@@ -149,7 +149,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 463,443 |
 
 #### Libraries and Tools
 
-* [QuestDB](https://github.com/questdb/questdb) ⭐ 16,919 | 🐛 835 | 🌐 Java | 📅 2026-05-07 - an open source time series database used for real-time analytics and high-performance applications. Supports high-throughput ingestion over InfluxDB line protocol and SQL as a query language.
+* [QuestDB](https://github.com/questdb/questdb) ⭐ 16,925 | 🐛 830 | 🌐 Java | 📅 2026-05-08 - an open source time series database used for real-time analytics and high-performance applications. Supports high-throughput ingestion over InfluxDB line protocol and SQL as a query language.
 * [Chaos Genius](https://github.com/chaos-genius/chaos_genius) ⚠️ Archived - an open source ML powered analytics engine for outlier/anomaly detection and root cause analysis. Connect with sensor data, monitor and get alerted on abnormal behavior.
 * [United Manufacturing Hub](https://github.com/united-manufacturing-hub/united-manufacturing-hub) ⭐ 364 | 🐛 12 | 🌐 Go | 📅 2026-05-06 - The Open-Source Manufacturing App Platform (combines various open source solutions and packages them in a Helm chart, for example, Nodered, VerneMQ and timescaleDB)
 * [ble-scale-sync](https://github.com/KristianP26/ble-scale-sync) ⭐ 68 | 🐛 12 | 🌐 TypeScript | 📅 2026-05-06 - Cross-platform Node.js CLI that reads BLE smart scales (23 brands), calculates body composition, and exports to Garmin Connect, MQTT, InfluxDB, Webhook, and Ntfy. Runs on Raspberry Pi, Linux, macOS, and Windows.
