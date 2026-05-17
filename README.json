@@ -320,7 +320,7 @@
             "last_commit": "2026-05-15T11:43:31Z",
             "owner": "Countly",
             "repo": "countly-server",
-            "stars": 5862
+            "stars": 5864
           }
         },
         {
@@ -380,10 +380,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-16T03:48:12Z",
+            "last_commit": "2026-05-17T05:26:52Z",
             "owner": "home-assistant",
             "repo": "core",
-            "stars": 87077
+            "stars": 87083
           }
         },
         {
@@ -401,7 +401,7 @@
             "last_commit": "2026-05-05T06:10:19Z",
             "owner": "thingsboard",
             "repo": "thingsboard-gateway",
-            "stars": 2124
+            "stars": 2122
           }
         },
         {
@@ -588,7 +588,7 @@
             "last_commit": "2026-05-12T09:04:21Z",
             "owner": "nanomq",
             "repo": "nanomq",
-            "stars": 2498
+            "stars": 2499
           }
         },
         {
@@ -642,7 +642,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-05-16T05:24:00Z",
+            "last_commit": "2026-05-17T02:55:11Z",
             "owner": "aklivity",
             "repo": "zilla",
             "stars": 688
@@ -737,7 +737,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-05-15T09:26:57Z",
+            "last_commit": "2026-05-17T01:30:38Z",
             "owner": "united-manufacturing-hub",
             "repo": "united-manufacturing-hub",
             "stars": 367
@@ -750,10 +750,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-05-16T04:36:26Z",
+            "last_commit": "2026-05-17T01:51:48Z",
             "owner": "questdb",
             "repo": "questdb",
-            "stars": 16959
+            "stars": 16961
           }
         },
         {
@@ -766,7 +766,7 @@
             "last_commit": "2024-09-12T07:46:44Z",
             "owner": "chaos-genius",
             "repo": "chaos_genius",
-            "stars": 778
+            "stars": 777
           }
         },
         {
@@ -1072,7 +1072,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-16T05:24:28.566Z",
+    "last_updated": "2026-05-17T05:45:29.211Z",
     "original_repository": "HQarroum/awesome-iot",
     "source_repository": "v1nvn/enhansome-iot",
     "source_repository_description": null,
