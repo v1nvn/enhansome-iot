@@ -289,7 +289,7 @@
             "last_commit": "2026-05-19T22:32:21Z",
             "owner": "aregtech",
             "repo": "areg-sdk",
-            "stars": 350
+            "stars": 349
           }
         },
         {
@@ -299,7 +299,7 @@
           "repo_info": {
             "archived": false,
             "language": "Elixir",
-            "last_commit": "2026-05-19T15:03:09Z",
+            "last_commit": "2026-05-20T13:09:35Z",
             "owner": "astarte-platform",
             "repo": "astarte",
             "stars": 271
@@ -317,10 +317,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-19T17:10:59Z",
+            "last_commit": "2026-05-20T15:25:08Z",
             "owner": "Countly",
             "repo": "countly-server",
-            "stars": 5863
+            "stars": 5865
           }
         },
         {
@@ -380,10 +380,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-20T05:44:32Z",
+            "last_commit": "2026-05-21T06:06:11Z",
             "owner": "home-assistant",
             "repo": "core",
-            "stars": 87132
+            "stars": 87158
           }
         },
         {
@@ -401,7 +401,7 @@
             "last_commit": "2026-05-19T07:51:38Z",
             "owner": "thingsboard",
             "repo": "thingsboard-gateway",
-            "stars": 2126
+            "stars": 2127
           }
         },
         {
@@ -452,7 +452,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-05-12T13:32:26Z",
+            "last_commit": "2026-05-20T16:19:05Z",
             "owner": "IoTSharp",
             "repo": "IoTEdge",
             "stars": 30
@@ -489,7 +489,7 @@
             "last_commit": "2026-05-16T02:14:51Z",
             "owner": "huginn",
             "repo": "huginn",
-            "stars": 49295
+            "stars": 49304
           }
         },
         {
@@ -547,7 +547,7 @@
             "last_commit": "2026-05-06T06:13:03Z",
             "owner": "vernemq",
             "repo": "vernemq",
-            "stars": 3583
+            "stars": 3584
           }
         },
         {
@@ -557,7 +557,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-13T07:42:41Z",
+            "last_commit": "2026-05-20T08:00:33Z",
             "owner": "kuzzleio",
             "repo": "kuzzle",
             "stars": 1642
@@ -585,10 +585,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-05-19T11:17:57Z",
+            "last_commit": "2026-05-20T08:52:34Z",
             "owner": "nanomq",
             "repo": "nanomq",
-            "stars": 2501
+            "stars": 2503
           }
         },
         {
@@ -624,10 +624,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-05-12T07:55:25Z",
+            "last_commit": "2026-05-20T17:55:41Z",
             "owner": "IoTSharp",
             "repo": "IoTSharp",
-            "stars": 1327
+            "stars": 1328
           }
         },
         {
@@ -642,10 +642,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-05-20T05:26:01Z",
+            "last_commit": "2026-05-21T05:53:21Z",
             "owner": "aklivity",
             "repo": "zilla",
-            "stars": 688
+            "stars": 689
           }
         }
       ],
@@ -661,10 +661,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-19T19:41:28Z",
+            "last_commit": "2026-05-20T19:52:26Z",
             "owner": "KristianP26",
             "repo": "ble-scale-sync",
-            "stars": 97
+            "stars": 98
           }
         },
         {
@@ -737,7 +737,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-05-19T15:12:20Z",
+            "last_commit": "2026-05-20T08:40:22Z",
             "owner": "united-manufacturing-hub",
             "repo": "united-manufacturing-hub",
             "stars": 367
@@ -750,10 +750,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-05-20T01:05:37Z",
+            "last_commit": "2026-05-21T05:14:40Z",
             "owner": "questdb",
             "repo": "questdb",
-            "stars": 16969
+            "stars": 16970
           }
         },
         {
@@ -1072,7 +1072,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-20T06:04:00.971Z",
+    "last_updated": "2026-05-21T06:06:47.489Z",
     "original_repository": "HQarroum/awesome-iot",
     "source_repository": "v1nvn/enhansome-iot",
     "source_repository_description": null,
