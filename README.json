@@ -81,9 +81,9 @@
           "description": "Raspberry Pi WiFi voucher display system with weather integration and PiJuice battery management.",
           "title": "PiSpot Show",
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "language": "Python",
-            "last_commit": "2026-05-19T14:05:41Z",
+            "last_commit": "2026-05-23T13:08:42Z",
             "owner": "GeiserX",
             "repo": "PiSpot-Show",
             "stars": 1
@@ -94,9 +94,9 @@
           "description": "Software for running a PiSpot Watch (composed of a Raspberry Pi Zero and a PaPiRus Zero) for the company GPConnect.",
           "title": "PiSpot Watch",
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "language": "Python",
-            "last_commit": "2026-05-19T14:05:44Z",
+            "last_commit": "2026-05-23T13:08:39Z",
             "owner": "GeiserX",
             "repo": "PiSpot-Watch",
             "stars": 2
@@ -206,7 +206,7 @@
             "last_commit": "2026-02-26T02:34:45Z",
             "owner": "pikasTech",
             "repo": "PikaPython",
-            "stars": 1722
+            "stars": 1723
           }
         },
         {
@@ -260,10 +260,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-22T08:22:17Z",
+            "last_commit": "2026-05-23T21:57:11Z",
             "owner": "BitWise-0x",
             "repo": "homebridge-blink-security",
-            "stars": 5
+            "stars": 6
           }
         },
         {
@@ -380,10 +380,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-23T05:16:39Z",
+            "last_commit": "2026-05-24T05:44:42Z",
             "owner": "home-assistant",
             "repo": "core",
-            "stars": 87190
+            "stars": 87199
           }
         },
         {
@@ -455,7 +455,7 @@
             "last_commit": "2026-05-20T16:19:05Z",
             "owner": "IoTSharp",
             "repo": "IoTEdge",
-            "stars": 31
+            "stars": 32
           }
         },
         {
@@ -491,10 +491,10 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-05-23T02:35:11Z",
+            "last_commit": "2026-05-23T16:13:19Z",
             "owner": "huginn",
             "repo": "huginn",
-            "stars": 49317
+            "stars": 49321
           }
         },
         {
@@ -647,7 +647,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-05-23T01:16:07Z",
+            "last_commit": "2026-05-24T05:44:34Z",
             "owner": "aklivity",
             "repo": "zilla",
             "stars": 690
@@ -669,7 +669,7 @@
             "last_commit": "2026-05-21T21:04:29Z",
             "owner": "KristianP26",
             "repo": "ble-scale-sync",
-            "stars": 100
+            "stars": 101
           }
         },
         {
@@ -755,10 +755,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-05-23T04:58:48Z",
+            "last_commit": "2026-05-23T23:34:44Z",
             "owner": "questdb",
             "repo": "questdb",
-            "stars": 16971
+            "stars": 16974
           }
         },
         {
@@ -849,9 +849,9 @@
           "description": "Raspberry Pi WiFi voucher display system with weather integration and PiJuice battery management.",
           "title": "PiSpot-Show",
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "language": "Python",
-            "last_commit": "2026-05-19T14:05:41Z",
+            "last_commit": "2026-05-23T13:08:42Z",
             "owner": "GeiserX",
             "repo": "PiSpot-Show",
             "stars": 1
@@ -1077,7 +1077,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-23T05:37:06.577Z",
+    "last_updated": "2026-05-24T05:58:27.111Z",
     "original_repository": "HQarroum/awesome-iot",
     "source_repository": "v1nvn/enhansome-iot",
     "source_repository_description": null,
