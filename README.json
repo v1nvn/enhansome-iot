@@ -299,7 +299,7 @@
           "repo_info": {
             "archived": false,
             "language": "Elixir",
-            "last_commit": "2026-05-26T12:15:18Z",
+            "last_commit": "2026-05-28T12:03:12Z",
             "owner": "astarte-platform",
             "repo": "astarte",
             "stars": 271
@@ -317,7 +317,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-28T03:08:06Z",
+            "last_commit": "2026-05-28T20:49:35Z",
             "owner": "Countly",
             "repo": "countly-server",
             "stars": 5868
@@ -347,6 +347,19 @@
           "children": [],
           "description": "A low-code IoT platform for device integration, data collection, and real-time visualization. Supports MQTT, OPC UA, Modbus, and 50+ industrial protocols with drag-and-drop UI builder.",
           "title": "Iotellect"
+        },
+        {
+          "children": [],
+          "description": "Open source hardware-in-the-loop testing framework for automated testing on real and virtual IoT hardware with CI/CD integration.",
+          "title": "Jumpstarter",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-29T05:34:32Z",
+            "owner": "jumpstarter-dev",
+            "repo": "jumpstarter",
+            "stars": 30
+          }
         },
         {
           "children": [],
@@ -385,10 +398,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-28T06:05:47Z",
+            "last_commit": "2026-05-29T06:06:00Z",
             "owner": "home-assistant",
             "repo": "core",
-            "stars": 87354
+            "stars": 87376
           }
         },
         {
@@ -406,7 +419,7 @@
             "last_commit": "2026-05-19T07:51:38Z",
             "owner": "thingsboard",
             "repo": "thingsboard-gateway",
-            "stars": 2133
+            "stars": 2135
           }
         },
         {
@@ -496,10 +509,10 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-05-23T16:13:19Z",
+            "last_commit": "2026-05-29T00:45:32Z",
             "owner": "huginn",
             "repo": "huginn",
-            "stars": 49341
+            "stars": 49347
           }
         },
         {
@@ -570,7 +583,7 @@
             "last_commit": "2026-05-21T10:07:36Z",
             "owner": "kuzzleio",
             "repo": "kuzzle",
-            "stars": 1641
+            "stars": 1642
           }
         },
         {
@@ -595,7 +608,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-05-28T04:54:44Z",
+            "last_commit": "2026-05-28T11:29:50Z",
             "owner": "nanomq",
             "repo": "nanomq",
             "stars": 2513
@@ -637,7 +650,7 @@
             "last_commit": "2026-05-24T15:56:37Z",
             "owner": "IoTSharp",
             "repo": "IoTSharp",
-            "stars": 1333
+            "stars": 1335
           }
         },
         {
@@ -652,7 +665,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-05-28T05:48:33Z",
+            "last_commit": "2026-05-28T23:21:46Z",
             "owner": "aklivity",
             "repo": "zilla",
             "stars": 689
@@ -747,7 +760,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-05-28T05:54:43Z",
+            "last_commit": "2026-05-28T14:22:25Z",
             "owner": "united-manufacturing-hub",
             "repo": "united-manufacturing-hub",
             "stars": 368
@@ -760,10 +773,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-05-28T03:07:41Z",
+            "last_commit": "2026-05-29T03:39:46Z",
             "owner": "questdb",
             "repo": "questdb",
-            "stars": 16994
+            "stars": 16998
           }
         },
         {
@@ -815,10 +828,23 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-05-27T19:01:46Z",
+            "last_commit": "2026-05-28T19:44:41Z",
             "owner": "tphakala",
             "repo": "birdnet-go",
-            "stars": 1194
+            "stars": 1203
+          }
+        },
+        {
+          "children": [],
+          "description": "A structured, AI-assisted toolkit for defining hardware products that have software inside — from concept through engineering spec to presentation-ready materials in eight phases.",
+          "title": "Electrum",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-28T15:41:43Z",
+            "owner": "yoelf22",
+            "repo": "electrum",
+            "stars": 4
           }
         },
         {
@@ -1095,7 +1121,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-28T06:08:17.827Z",
+    "last_updated": "2026-05-29T06:10:14.084Z",
     "original_repository": "HQarroum/awesome-iot",
     "source_repository": "v1nvn/enhansome-iot",
     "source_repository_description": null,
