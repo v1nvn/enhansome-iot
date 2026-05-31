@@ -355,7 +355,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-30T01:32:38Z",
+            "last_commit": "2026-05-30T06:55:11Z",
             "owner": "jumpstarter-dev",
             "repo": "jumpstarter",
             "stars": 37
@@ -398,10 +398,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-30T00:49:00Z",
+            "last_commit": "2026-05-30T18:40:30Z",
             "owner": "home-assistant",
             "repo": "core",
-            "stars": 87387
+            "stars": 87403
           }
         },
         {
@@ -509,10 +509,10 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-05-30T02:39:17Z",
+            "last_commit": "2026-05-30T09:33:40Z",
             "owner": "huginn",
             "repo": "huginn",
-            "stars": 49359
+            "stars": 49375
           }
         },
         {
@@ -611,7 +611,7 @@
             "last_commit": "2026-05-29T07:54:14Z",
             "owner": "nanomq",
             "repo": "nanomq",
-            "stars": 2514
+            "stars": 2515
           }
         },
         {
@@ -665,10 +665,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-05-29T23:25:42Z",
+            "last_commit": "2026-05-31T03:38:31Z",
             "owner": "aklivity",
             "repo": "zilla",
-            "stars": 689
+            "stars": 690
           }
         }
       ],
@@ -773,10 +773,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-05-30T04:52:57Z",
+            "last_commit": "2026-05-31T02:52:54Z",
             "owner": "questdb",
             "repo": "questdb",
-            "stars": 17004
+            "stars": 17008
           }
         },
         {
@@ -828,10 +828,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-05-29T15:41:57Z",
+            "last_commit": "2026-05-30T16:11:00Z",
             "owner": "tphakala",
             "repo": "birdnet-go",
-            "stars": 1207
+            "stars": 1208
           }
         },
         {
@@ -841,7 +841,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-28T15:41:43Z",
+            "last_commit": "2026-05-30T15:46:29Z",
             "owner": "yoelf22",
             "repo": "electrum",
             "stars": 4
@@ -1121,7 +1121,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-30T05:44:37.336Z",
+    "last_updated": "2026-05-31T06:14:35.161Z",
     "original_repository": "HQarroum/awesome-iot",
     "source_repository": "v1nvn/enhansome-iot",
     "source_repository_description": null,
