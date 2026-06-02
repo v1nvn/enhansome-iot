@@ -273,7 +273,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-29T16:35:41Z",
+            "last_commit": "2026-06-02T00:57:28Z",
             "owner": "BitWise-0x",
             "repo": "homebridge-smartrent",
             "stars": 3
@@ -317,10 +317,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-06-01T02:36:18Z",
+            "last_commit": "2026-06-01T20:40:02Z",
             "owner": "Countly",
             "repo": "countly-server",
-            "stars": 5868
+            "stars": 5869
           }
         },
         {
@@ -355,10 +355,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-30T06:55:11Z",
+            "last_commit": "2026-06-02T06:03:06Z",
             "owner": "jumpstarter-dev",
             "repo": "jumpstarter",
-            "stars": 37
+            "stars": 38
           }
         },
         {
@@ -398,10 +398,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-01T06:49:57Z",
+            "last_commit": "2026-06-02T06:29:24Z",
             "owner": "home-assistant",
             "repo": "core",
-            "stars": 87439
+            "stars": 87455
           }
         },
         {
@@ -419,7 +419,7 @@
             "last_commit": "2026-05-19T07:51:38Z",
             "owner": "thingsboard",
             "repo": "thingsboard-gateway",
-            "stars": 2136
+            "stars": 2137
           }
         },
         {
@@ -509,10 +509,10 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-05-30T09:33:40Z",
+            "last_commit": "2026-06-01T19:58:31Z",
             "owner": "huginn",
             "repo": "huginn",
-            "stars": 49382
+            "stars": 49391
           }
         },
         {
@@ -611,7 +611,7 @@
             "last_commit": "2026-05-29T07:54:14Z",
             "owner": "nanomq",
             "repo": "nanomq",
-            "stars": 2518
+            "stars": 2519
           }
         },
         {
@@ -647,7 +647,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-05-31T15:32:03Z",
+            "last_commit": "2026-06-01T17:36:33Z",
             "owner": "IoTSharp",
             "repo": "IoTSharp",
             "stars": 1338
@@ -687,7 +687,7 @@
             "last_commit": "2026-05-31T23:14:15Z",
             "owner": "leaberg69",
             "repo": "aem-modbus-simulator",
-            "stars": 1
+            "stars": 2
           }
         },
         {
@@ -697,7 +697,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-21T21:04:29Z",
+            "last_commit": "2026-06-02T06:27:15Z",
             "owner": "KristianP26",
             "repo": "ble-scale-sync",
             "stars": 103
@@ -773,7 +773,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-05-31T16:50:07Z",
+            "last_commit": "2026-06-02T06:37:39Z",
             "owner": "united-manufacturing-hub",
             "repo": "united-manufacturing-hub",
             "stars": 368
@@ -786,10 +786,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-06-01T04:41:33Z",
+            "last_commit": "2026-06-02T02:43:18Z",
             "owner": "questdb",
             "repo": "questdb",
-            "stars": 17014
+            "stars": 17017
           }
         },
         {
@@ -841,10 +841,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-06-01T00:59:34Z",
+            "last_commit": "2026-06-02T06:35:33Z",
             "owner": "tphakala",
             "repo": "birdnet-go",
-            "stars": 1216
+            "stars": 1222
           }
         },
         {
@@ -1134,7 +1134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-01T06:51:51.821Z",
+    "last_updated": "2026-06-02T06:38:37.500Z",
     "original_repository": "HQarroum/awesome-iot",
     "source_repository": "v1nvn/enhansome-iot",
     "source_repository_description": null,
