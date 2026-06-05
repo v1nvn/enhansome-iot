@@ -299,7 +299,7 @@
           "repo_info": {
             "archived": false,
             "language": "Elixir",
-            "last_commit": "2026-06-03T15:03:47Z",
+            "last_commit": "2026-06-04T10:18:44Z",
             "owner": "astarte-platform",
             "repo": "astarte",
             "stars": 272
@@ -317,10 +317,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-06-03T20:15:25Z",
+            "last_commit": "2026-06-05T01:22:49Z",
             "owner": "Countly",
             "repo": "countly-server",
-            "stars": 5870
+            "stars": 5873
           }
         },
         {
@@ -355,10 +355,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-03T22:00:44Z",
+            "last_commit": "2026-06-04T20:36:57Z",
             "owner": "jumpstarter-dev",
             "repo": "jumpstarter",
-            "stars": 172
+            "stars": 176
           }
         },
         {
@@ -398,10 +398,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-04T06:20:19Z",
+            "last_commit": "2026-06-05T06:12:25Z",
             "owner": "home-assistant",
             "repo": "core",
-            "stars": 87498
+            "stars": 87517
           }
         },
         {
@@ -512,7 +512,7 @@
             "last_commit": "2026-06-03T13:57:11Z",
             "owner": "huginn",
             "repo": "huginn",
-            "stars": 49395
+            "stars": 49397
           }
         },
         {
@@ -570,7 +570,7 @@
             "last_commit": "2026-06-03T08:39:59Z",
             "owner": "vernemq",
             "repo": "vernemq",
-            "stars": 3586
+            "stars": 3587
           }
         },
         {
@@ -621,10 +621,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-06-03T03:22:45Z",
+            "last_commit": "2026-06-04T08:07:33Z",
             "owner": "lf-edge",
             "repo": "ekuiper",
-            "stars": 1708
+            "stars": 1709
           }
         },
         {
@@ -665,7 +665,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-06-04T06:18:50Z",
+            "last_commit": "2026-06-05T06:06:22Z",
             "owner": "aklivity",
             "repo": "zilla",
             "stars": 690
@@ -697,7 +697,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-06-03T20:30:27Z",
+            "last_commit": "2026-06-04T10:28:52Z",
             "owner": "KristianP26",
             "repo": "ble-scale-sync",
             "stars": 104
@@ -786,10 +786,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-06-04T05:21:04Z",
+            "last_commit": "2026-06-05T01:32:56Z",
             "owner": "questdb",
             "repo": "questdb",
-            "stars": 17019
+            "stars": 17023
           }
         },
         {
@@ -841,10 +841,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-06-03T19:37:28Z",
+            "last_commit": "2026-06-04T19:06:41Z",
             "owner": "tphakala",
             "repo": "birdnet-go",
-            "stars": 1231
+            "stars": 1236
           }
         },
         {
@@ -1134,7 +1134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-04T06:39:33.318Z",
+    "last_updated": "2026-06-05T06:18:46.189Z",
     "original_repository": "HQarroum/awesome-iot",
     "source_repository": "v1nvn/enhansome-iot",
     "source_repository_description": null,
