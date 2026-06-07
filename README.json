@@ -112,7 +112,7 @@
             "last_commit": "2025-12-17T12:55:24Z",
             "owner": "autopi-io",
             "repo": "autopi-core",
-            "stars": 185
+            "stars": 186
           }
         },
         {
@@ -355,10 +355,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-05T16:24:04Z",
+            "last_commit": "2026-06-06T14:32:39Z",
             "owner": "jumpstarter-dev",
             "repo": "jumpstarter",
-            "stars": 178
+            "stars": 179
           }
         },
         {
@@ -398,10 +398,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-06T04:36:39Z",
+            "last_commit": "2026-06-07T06:02:42Z",
             "owner": "home-assistant",
             "repo": "core",
-            "stars": 87553
+            "stars": 87569
           }
         },
         {
@@ -509,10 +509,10 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-06-05T15:17:33Z",
+            "last_commit": "2026-06-06T22:16:37Z",
             "owner": "huginn",
             "repo": "huginn",
-            "stars": 49404
+            "stars": 49430
           }
         },
         {
@@ -611,7 +611,7 @@
             "last_commit": "2026-06-03T03:19:14Z",
             "owner": "nanomq",
             "repo": "nanomq",
-            "stars": 2520
+            "stars": 2523
           }
         },
         {
@@ -624,7 +624,7 @@
             "last_commit": "2026-06-04T08:07:33Z",
             "owner": "lf-edge",
             "repo": "ekuiper",
-            "stars": 1709
+            "stars": 1711
           }
         },
         {
@@ -665,7 +665,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-06-06T05:46:58Z",
+            "last_commit": "2026-06-07T06:13:50Z",
             "owner": "aklivity",
             "repo": "zilla",
             "stars": 690
@@ -773,7 +773,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-06-05T11:31:19Z",
+            "last_commit": "2026-06-07T02:15:56Z",
             "owner": "united-manufacturing-hub",
             "repo": "united-manufacturing-hub",
             "stars": 368
@@ -786,7 +786,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-06-05T23:52:24Z",
+            "last_commit": "2026-06-07T03:08:23Z",
             "owner": "questdb",
             "repo": "questdb",
             "stars": 17030
@@ -841,10 +841,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-06-05T16:24:54Z",
+            "last_commit": "2026-06-06T19:44:04Z",
             "owner": "tphakala",
             "repo": "birdnet-go",
-            "stars": 1240
+            "stars": 1244
           }
         },
         {
@@ -1134,7 +1134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-06T05:51:32.597Z",
+    "last_updated": "2026-06-07T06:20:33.131Z",
     "original_repository": "HQarroum/awesome-iot",
     "source_repository": "v1nvn/enhansome-iot",
     "source_repository_description": null,
